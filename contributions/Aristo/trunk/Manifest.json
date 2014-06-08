@@ -8,7 +8,11 @@
       "1.4",
       "1.5",
       "1.6",
-      "1.6-pre", "2.0", "3.0", "3.5"
+      "1.6-pre", 
+      "2.0", 
+      "3.0", 
+      "3.5", 
+      "4.0"
     ],
     "summary" : "Aristo Contribution",
     "version" : "trunk",
@@ -36,7 +40,7 @@
         "url": "http://demo.qooxdoo.org/contrib/demobrowser/demo/Aristo/trunk/default/1.6.1/index.html"
       }
     ],
-    "download" : "https://github.com/johnspackman/aristo",
+    "download" : "https://github.com/johnspackman/aristo/archive/master.zip",
     "homepage" : "http://contrib.qooxdoo.org/project/Aristo",
     "name" : "Aristo"
   },
