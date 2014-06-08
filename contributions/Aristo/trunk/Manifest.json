@@ -3,7 +3,7 @@
     "category" : ["theme"],
     "description" : "Additional theme. Aristo is an open source UI created by <a href='http://280north.com/'>280 North, Inc.</a> and <a href='http://www.madebysofa.com/'>Sofa</a> and released under the <br/>Creative Commons Attribution Share-Alike License <a href='http://creativecommons.org/licenses/by-sa/3.0/us/'>http://creativecommons.org/licenses/by-sa/3.0/us/</a>. <br/>See <a href='http://github.com/280north/aristo'>homepage</a> for more info.",
     "license" : "Creative Commons Attribution Share-Alike",
-    "checksum" : "",
+    "checksum" : "8b5ea86141d66a685a325b439780eb97ac0e9d83",
     "qooxdoo-versions" : [
       "1.4",
       "1.5",
